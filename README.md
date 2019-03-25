@@ -1,2 +1,2 @@
 # comportamientosdigitales
-Comportamientos Digitales
+Leer la cartilla de los 10 comportamientos digitales
